@@ -321,6 +321,7 @@ PRODUCT_PACKAGES += \
     CarrierConfigResCommon \
     FrameworksResCommon \
     FrameworksResTarget \
+    SettingsResSamsung \
     SystemUIResCommon \
     TelecommResCommon \
     TelephonyResCommon \
