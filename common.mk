@@ -312,8 +312,8 @@ PRODUCT_SOONG_NAMESPACES += bootable/deprecated-ota
 
 # USB
 PRODUCT_PACKAGES += \
-    android.hardware.usb@1.3-service-qti \
-    android.hardware.usb.gadget@1.2-service-qti
+    android.hardware.usb-service.qti \
+    android.hardware.usb.gadget-service.qti
 
 PRODUCT_PACKAGES += \
     init.qcom.usb.rc \
