@@ -1,4 +1,4 @@
-# All unpinned blobs are extracted from S918BXXU6CXH7
+# All unpinned blobs are extracted from S911BXXS6CXI4
 
 # Current blobs with ELF checks disabled:
 # libar-pal depends on libagmclient, which is a gnu makefile target

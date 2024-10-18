@@ -163,7 +163,7 @@ ENABLE_VENDOR_RIL_SERVICE := true
 SOONG_CONFIG_rfs_mpss_firmware_symlink_target := firmware_modem
 
 # Security
-BOOT_SECURITY_PATCH := 2024-09-01
+BOOT_SECURITY_PATCH := 2024-10-01
 VENDOR_SECURITY_PATCH := $(BOOT_SECURITY_PATCH)
 
 # SEPolicy
