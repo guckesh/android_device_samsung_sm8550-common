@@ -818,7 +818,6 @@ vendor/lib64/vendor.qti.gnss-service.so
 vendor/lib64/vendor.samsung.hardware.gnss-V2-ndk_platform.so
 
 # Gatekeeper
-vendor/etc/init/android.hardware.gatekeeper@1.0-service.rc
 vendor/lib64/hw/gatekeeper.mdfpp.so
 
 # Graphics (Adreno firmware)
